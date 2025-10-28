@@ -37,3 +37,19 @@ Lancez MARS, ouvrez l'un des 2 fichiers .asm et cliquez sur Assemble (icône de 
 
 ## Description
 
+Comme dis ci-dessus, le projet et de créer un programme qui résout un sudoku mis en paramètre, soit à l'aide d'un fichier à part, soit directement dans le code.
+
+Pour ce faire, nous avons dispersé les tâches en trois grandes parties:
+
+- une partie contenant des fonctions permettant de **lire un fichier .txt et mettre le contenu du fichier dans une variable (nommée grille dans notre cas),**
+- une partie contenant des fonctions permettant de **résoudre le sudoku enièrement,**
+- une partie contenant des fonctions permettant **l'affichage du sudoku dans la console.**
+
+Pour une raison que j'ignore, la version qui prend en paramètre le fichier .txt (sujet_sudoku.asm), ne fonctionne plus et renvoie -48, il me semble avoir déjà rencontré ce problème et l'avoir résolu mais le souvenir est trop flou.
+
+En revanche, la version qui prend le sudoku directement en dur dans le code (sujet_sudoku2.asm) fonctionne.
+
+## Screenshots
+
+A compléter
+
