@@ -49,7 +49,7 @@ Pour une raison que j'ignore, la version qui prend en paramètre le fichier .txt
 
 En revanche, la version qui prend le sudoku directement en dur dans le code (sujet_sudoku2.asm) fonctionne.
 
-## Screenshots
+## Screenshot
 
-A compléter
+<img src="screenshots/Sudoku.png" width="700" alt="screen sudoku">
 
