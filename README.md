@@ -27,7 +27,7 @@ git config --global user.email "[email]"
 ```sh
 git clone https://github.com/Jean-GIESE/Sudoku-Game.git
 ```
-Ce projet à été fait sur MARS avec la version 4.5. Si vous n'avez pas MARS sur votre ordinateur, installez-le
+Ce projet à été fait sur MARS avec la version 4.5. Si vous n'avez pas MARS sur votre ordinateur, installez-le via le [site web](https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml)
 
 ### Lancement du jeu
 
